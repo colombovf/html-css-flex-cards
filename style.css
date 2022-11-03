@@ -1,0 +1,43 @@
+* {
+    
+}
+
+header {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+h1,h2 {
+    color: deeppink;
+   }
+
+.flex-container {
+    color: whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.flex-item {
+    display: flex;
+    width: 400px;
+    background-color: rgb(0, 12, 41);
+    margin: 20px;
+    box-shadow: 2px 2px #1e1e1e;
+}
+
+.backdiv {
+    margin-left: 20px;
+}
+
+img {
+    width: 170px;
+    height: 150px;
+}
+
+a:link {
+    color: aquamarine;
+}
